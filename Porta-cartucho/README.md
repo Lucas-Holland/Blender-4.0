@@ -1,4 +1,4 @@
-# PortaCartuchoSWITCH>NES
+# PortaCartucho SWITCH>NES
 
 [pt/br]
 
