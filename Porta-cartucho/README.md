@@ -4,10 +4,10 @@
 
  Porta Cartucho do NES para cartucho do Switch.
 
- Arquivo feito no blender 3D 4.0
+ Arquivo feito com blender 3D 4.0
 
 [en]
  
  NES Cartridge Holder for Switch cartridge.
 
- File made in Blender 3D 4.0 
+ File made with Blender 3D 4.0 
